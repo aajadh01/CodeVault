@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
