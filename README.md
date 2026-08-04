@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [1695-maximum-erasure-value](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [1695-maximum-erasure-value](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [1695-maximum-erasure-value](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1695-maximum-erasure-value) |
 <!---LeetCode Topics End-->
