@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1754-largest-merge-of-two-strings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1754-largest-merge-of-two-strings) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
