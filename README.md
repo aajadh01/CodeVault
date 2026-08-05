@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1695-maximum-erasure-value](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1695-maximum-erasure-value](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -37,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1695-maximum-erasure-value](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
 |  |
@@ -70,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3310-remove-methods-from-project) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
