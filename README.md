@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1695-maximum-erasure-value](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
 | [3310-remove-methods-from-project](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
 | [3310-remove-methods-from-project](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
