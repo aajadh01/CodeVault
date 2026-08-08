@@ -30,16 +30,19 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1754-largest-merge-of-two-strings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1754-largest-merge-of-two-strings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0394-decode-string) |
 | [1754-largest-merge-of-two-strings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1754-largest-merge-of-two-strings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1754-largest-merge-of-two-strings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1754-largest-merge-of-two-strings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
