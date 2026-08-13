@@ -1,18 +1,21 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-        int left=0;
         int sum=0;
+        int left=0;
         int right=-1;
+        int len=0;
         for(int i=0;i<nums.length;i++)
         {
             sum+=nums[i];
-            if(sum>=target) {
+            if(sum>=target)
+            {
                 right=i;
-                break;}
+                break;
+            }
         }
         if(right==-1) return 0;
-        int len = right - left + 1 ;
-        while(right<nums.length)
+        len=right-left+1;
+       while(right<nums.length)
         {
             if(len==1) return 1;
             sum-=nums[left];
@@ -34,6 +37,6 @@ class Solution {
                 if(len>check) len = check;
             }
         }
-        return len;    
+        return len;
     }
 }
