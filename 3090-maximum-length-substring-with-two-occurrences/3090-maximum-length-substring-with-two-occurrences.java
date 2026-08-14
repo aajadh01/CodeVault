@@ -7,19 +7,12 @@ class Solution {
         {
             char c = s.charAt(i);
             map.put(c,map.getOrDefault(c,0)+1);
-            if(map.get(c)>2)
-            {
-                ans=Math.max(i-left,ans);
                 while(map.get(c)>2)
                 {
                     map.put(s.charAt(left),map.get(s.charAt(left))-1);
                     left++;
                 }
-            }
-            else
-            {
                 ans=Math.max(i-left+1,ans);
-            }
         }
         return ans;
     }
