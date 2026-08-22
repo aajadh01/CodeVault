@@ -1,7 +1,7 @@
 class Solution {
     public boolean checkDivisibility(int n) {
-        long sum = 0 ;
-        long product = 1;
+        int sum = 0 ;
+        int product = 1;
         int chk = n;
         while(n>0)
         {
