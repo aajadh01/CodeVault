@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1563-stone-game-v](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1563-stone-game-v) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
