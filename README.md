@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aajadh01/CodeVault/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aajadh01/CodeVault/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aajadh01/CodeVault/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aajadh01/CodeVault/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
