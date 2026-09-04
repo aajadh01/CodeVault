@@ -7,13 +7,11 @@ class Solution {
                 smallestOdd = Math.min(smallestOdd, num);
         }
 
-        // Already all even
         if (smallestOdd == Integer.MAX_VALUE)
             return true;
 
-        // Check whether every even number can become odd
         for (int num : nums) {
-            if (num % 2 == 0 && num <= smallestOdd)
+            if (num % 2 == 0 && num-smallestOdd<0)
                 return false;
         }
 
