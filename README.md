@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0115-distinct-subsequences](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0394-decode-string](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0394-decode-string) |
+| [0940-distinct-subsequences-ii](https://github.com/aajadh01/CodeVault/tree/master/0940-distinct-subsequences-ii) |
 | [1754-largest-merge-of-two-strings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1754-largest-merge-of-two-strings) |
 | [1927-sum-game](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/aajadh01/CodeVault/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1563-stone-game-v) |
