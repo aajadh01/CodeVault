@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aajadh01/CodeVault/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aajadh01/CodeVault/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1636-sort-array-by-increasing-frequency](https://github.com/aajadh01/CodeVault/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aajadh01/CodeVault/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aajadh01/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1563-stone-game-v](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
