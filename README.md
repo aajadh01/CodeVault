@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/aajadh01/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
 | [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0835-image-overlap](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0835-image-overlap) |
 | [1122-relative-sort-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1386-cinema-seat-allocation) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
+| [0835-image-overlap](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
