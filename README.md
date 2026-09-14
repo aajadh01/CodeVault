@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1563-stone-game-v) |
@@ -266,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1122-relative-sort-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
