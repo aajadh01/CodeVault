@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aajadh01/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1872-stone-game-viii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [3903-smallest-stable-index-i](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
