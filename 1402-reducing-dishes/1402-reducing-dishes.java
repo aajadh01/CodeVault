@@ -1,20 +1,21 @@
 class Solution {
-    public int maxSatisfaction(int[] s) {
-        Arrays.sort(s);
-        int n = s.length;
-        int ans = 0;
-        int sum = 0;
-        for(int i=0;i<n;i++)
-        {
-            int cnt = 1;
-            for(int j=i;j<n;j++)
-            {
-                sum+=(s[j]*cnt);
-                cnt++;
-            }
-            if(sum>0) ans = Math.max(sum,ans);
-            sum=0;
+    public int maxSatisfaction(int[] satisfaction) {
+        Arrays.sort(satisfaction);
+        int Totalsum=0;
+        int sum=0;
+        int n=satisfaction.length;
+        for(int i=0;i<n;i++){
+            Totalsum+=satisfaction[i]*(i+1);
+            sum+=satisfaction[i];}
+        int max=0;
+        max=Math.max(max,Totalsum);
+        for(int i=0;i<n;i++){
+            Totalsum-=sum;
+            max=Math.max(max,Totalsum);
+            sum-=satisfaction[i];
         }
-        return ans;
+        
+        return max;
+        
     }
 }
