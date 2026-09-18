@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1122-relative-sort-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1122-relative-sort-array) |
 | [1386-cinema-seat-allocation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aajadh01/CodeVault/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0394-decode-string](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0394-decode-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aajadh01/CodeVault/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1754-largest-merge-of-two-strings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1754-largest-merge-of-two-strings) |
 | [1927-sum-game](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1754-largest-merge-of-two-strings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1754-largest-merge-of-two-strings) |
 | [1927-sum-game](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1122-relative-sort-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aajadh01/CodeVault/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aajadh01/CodeVault/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
