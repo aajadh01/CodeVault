@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
