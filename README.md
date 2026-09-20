@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -305,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2182-construct-string-with-repeat-limit](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
