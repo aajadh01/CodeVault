@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0835-image-overlap](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0835-image-overlap) |
+| [0870-advantage-shuffle](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0870-advantage-shuffle) |
 | [1122-relative-sort-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1386-cinema-seat-allocation) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0870-advantage-shuffle](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0870-advantage-shuffle) |
 | [1754-largest-merge-of-two-strings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1754-largest-merge-of-two-strings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0870-advantage-shuffle](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0870-advantage-shuffle) |
 | [1386-cinema-seat-allocation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0870-advantage-shuffle](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0870-advantage-shuffle) |
 | [1122-relative-sort-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1122-relative-sort-array) |
 | [1402-reducing-dishes](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
