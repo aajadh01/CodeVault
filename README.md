@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [1096-brace-expansion-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1122-relative-sort-array) |
 | [1386-cinema-seat-allocation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0394-decode-string](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0394-decode-string) |
 | [0940-distinct-subsequences-ii](https://github.com/aajadh01/CodeVault/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1754-largest-merge-of-two-strings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1754-largest-merge-of-two-strings) |
 | [1927-sum-game](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1927-sum-game) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0870-advantage-shuffle](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0870-advantage-shuffle) |
+| [1096-brace-expansion-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1122-relative-sort-array) |
 | [1402-reducing-dishes](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0394-decode-string) |
+| [1096-brace-expansion-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
+| [1096-brace-expansion-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
