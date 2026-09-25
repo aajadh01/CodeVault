@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1636-sort-array-by-increasing-frequency](https://github.com/aajadh01/CodeVault/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1695-maximum-erasure-value) |
+| [1854-maximum-population-year](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1872-stone-game-viii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1854-maximum-population-year](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1872-stone-game-viii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [3903-smallest-stable-index-i](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [1854-maximum-population-year](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1854-maximum-population-year) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
