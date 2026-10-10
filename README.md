@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2592-maximize-greatness-of-an-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2592-maximize-greatness-of-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2592-maximize-greatness-of-an-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2592-maximize-greatness-of-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-reducing-dishes](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aajadh01/CodeVault/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2592-maximize-greatness-of-an-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2592-maximize-greatness-of-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aajadh01/CodeVault/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2182-construct-string-with-repeat-limit](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Simulation
 |  |
 | ------- |
