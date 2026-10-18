@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-reducing-dishes](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aajadh01/CodeVault/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1695-maximum-erasure-value) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1401-circle-and-rectangle-overlapping](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1927-sum-game) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Segment Tree
 |  |
@@ -352,10 +356,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting Sort
 |  |
@@ -377,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Heap (Priority Queue)
 |  |
@@ -404,4 +411,20 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
