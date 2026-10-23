@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3525-find-x-value-of-array-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Union-Find
 |  |
