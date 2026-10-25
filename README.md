@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0870-advantage-shuffle](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0870-advantage-shuffle) |
 | [1122-relative-sort-array](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0301-remove-invalid-parentheses](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Segment Tree
