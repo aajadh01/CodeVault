@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aajadh01/CodeVault/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3886-sum-of-sortable-integers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aajadh01/CodeVault/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aajadh01/CodeVault/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aajadh01/CodeVault/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aajadh01/CodeVault/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -382,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aajadh01/CodeVault/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -435,10 +441,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aajadh01/CodeVault/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/aajadh01/CodeVault/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
