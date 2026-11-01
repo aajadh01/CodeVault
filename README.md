@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3903-smallest-stable-index-i](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4020-elevator-requests-i](https://github.com/aajadh01/CodeVault/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+| [4020-elevator-requests-i](https://github.com/aajadh01/CodeVault/tree/master/4020-elevator-requests-i) |
 ## Bracket Sequences
 |  |
 | ------- |
