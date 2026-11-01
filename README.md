@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/aajadh01/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aajadh01/CodeVault/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0835-image-overlap](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0835-image-overlap) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aajadh01/CodeVault/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/aajadh01/DSA_LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
