@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aajadh01/CodeVault/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1695-maximum-erasure-value) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Linked List
 |  |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2182-construct-string-with-repeat-limit](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aajadh01/DSA_LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aajadh01/CodeVault/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aajadh01/DSA_LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/aajadh01/DSA_LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/aajadh01/CodeVault/tree/master/4020-elevator-requests-i) |
 ## Bracket Sequences
